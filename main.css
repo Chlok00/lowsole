@@ -1,0 +1,45 @@
+body {
+	background-image: url(http://lh5.ggpht.com/-Mp9s3xPycTc/UQHOFtSGwvI/AAAAAAAAAA4/HoumpcM7MaA/s9000/826912187039856.jpg);
+}
+
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+.style1 {
+	font-size: 18px}
+
+.style2 {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	color: #909090;
+}
+
+.style3 {
+	font-size: 16px; 
+	color: #686868;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+.style4 {
+	color: #686868;
+	font-size: 18px;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+a:link {
+	color: #303030 ;
+}
+
+a:hover {
+	color: #000000;
+}
+
+a:visited {
+	color: #303030 ;
+}
+
+
